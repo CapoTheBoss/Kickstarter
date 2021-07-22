@@ -1,0 +1,325 @@
+,state_location,name_category,cont
+0,Abruzzo,3D Printing,29
+1,Abruzzo,Electronic Music,11
+2,Abruzzo,Events,2
+3,Abruzzo,Jewelry,16
+4,Abruzzo,Photobooks,22
+5,Abruzzo,Publishing,1
+6,Baja California,Journalism,14
+7,Baja California,Publishing,3
+8,Basilicata,Farms,23
+9,Berlin,Narrative Film,10
+10,Budapest,Classical Music,12
+11,CA,Hardware,12
+12,CA,Technology,3
+13,Cairo,World Music,15
+14,Calabria,Graphic Novels,20
+15,Calabria,Metal,15
+16,Calabria,Tabletop Games,11
+17,Campania,Academic,47
+18,Campania,Accessories,18
+19,Campania,Design,2
+20,Campania,DIY Electronics,34
+21,Campania,Fashion,4
+22,Campania,Footwear,16
+23,Campania,Jewelry,6
+24,Campania,Playing Cards,7
+25,Campania,Sculpture,2
+26,Campania,Tabletop Games,18
+27,Campania,Video Games,9
+28,Canton of Geneva,Conceptual Art,18
+29,Canton of Ticino,Photo,14
+30,Ciudad de la Habana,World Music,15
+31,Coahuila de Zaragoza,Photobooks,20
+32,Crete,Playing Cards,15
+33,Crete,Product Design,7
+34,DE,Apps,20
+35,Emilia-Romagna,3D Printing,15
+36,Emilia-Romagna,Academic,15
+37,Emilia-Romagna,Accessories,16
+38,Emilia-Romagna,Action,15
+39,Emilia-Romagna,Anthologies,16
+40,Emilia-Romagna,Apparel,17
+41,Emilia-Romagna,Art Books,17
+42,Emilia-Romagna,Camera Equipment,17
+43,Emilia-Romagna,Comic Books,13
+44,Emilia-Romagna,Crafts,12
+45,Emilia-Romagna,DIY Electronics,41
+46,Emilia-Romagna,Documentary,6
+47,Emilia-Romagna,Food,3
+48,Emilia-Romagna,Footwear,19
+49,Emilia-Romagna,Illustration,30
+50,Emilia-Romagna,Playing Cards,14
+51,Emilia-Romagna,Product Design,7
+52,Emilia-Romagna,Robots,37
+53,Emilia-Romagna,Shorts,9
+54,Emilia-Romagna,Tabletop Games,39
+55,Emilia-Romagna,Technology,2
+56,Emilia-Romagna,Video Games,12
+57,Emilia-Romagna,Wearables,2
+58,Emilia-Romagna,Woodworking,11
+59,Emilia-Romagna,Zines,16
+60,England,Classical Music,5
+61,England,Gaming Hardware,17
+62,Federacija Bosne I Hercegovine,Documentary,5
+63,Flevoland,Apps,15
+64,Friuli-Venezia Giulia,Animation,1
+65,Friuli-Venezia Giulia,Apparel,16
+66,Friuli-Venezia Giulia,Electronic Music,15
+67,Friuli-Venezia Giulia,Festivals,15
+68,Friuli-Venezia Giulia,Indie Rock,7
+69,Friuli-Venezia Giulia,Mixed Media,14
+70,Friuli-Venezia Giulia,Nonfiction,15
+71,Friuli-Venezia Giulia,Photobooks,31
+72,Friuli-Venezia Giulia,Photography,6
+73,Friuli-Venezia Giulia,Product Design,9
+74,Friuli-Venezia Giulia,Radio & Podcasts,16
+75,Friuli-Venezia Giulia,Tabletop Games,8
+76,Friuli-Venezia Giulia,Video,1
+77,Friuli-Venezia Giulia,Video Games,13
+78,Friuli-Venezia Giulia,World Music,11
+79,Harju County,Animation,17
+80,Harju County,Science Fiction,13
+81,Ile-de-France,Animation,11
+82,Lazio,Accessories,66
+83,Lazio,Apparel,12
+84,Lazio,Apps,15
+85,Lazio,Art,13
+86,Lazio,Art Books,10
+87,Lazio,Children's Books,15
+88,Lazio,Classical Music,2
+89,Lazio,Comedy,18
+90,Lazio,Comic Books,17
+91,Lazio,Design,4
+92,Lazio,Documentary,5
+93,Lazio,Food,7
+94,Lazio,Gadgets,21
+95,Lazio,Games,1
+96,Lazio,Graphic Novels,18
+97,Lazio,Hardware,8
+98,Lazio,Illustration,54
+99,Lazio,Jazz,15
+100,Lazio,Metal,6
+101,Lazio,Mixed Media,14
+102,Lazio,Music,2
+103,Lazio,Painting,17
+104,Lazio,Photobooks,3
+105,Lazio,Photography,6
+106,Lazio,Plays,17
+107,Lazio,Pottery,17
+108,Lazio,Product Design,61
+109,Lazio,Publishing,3
+110,Lazio,Rock,7
+111,Lazio,Sculpture,16
+112,Lazio,Shorts,33
+113,Lazio,Tabletop Games,64
+114,Lazio,Video Games,19
+115,Lazio,Web,16
+116,Lazio,Webseries,11
+117,Liguria,Art Books,10
+118,Liguria,Events,17
+119,Liguria,Fine Art,21
+120,Liguria,Graphic Design,14
+121,Liguria,Indie Rock,2
+122,Liguria,Product Design,18
+123,Liguria,Shorts,5
+124,Liguria,Tabletop Games,5
+125,Liguria,Video Games,10
+126,Lima Metropolitan Area,Illustration,14
+127,Lisbon,Experimental,14
+128,Lombardia,3D Printing,39
+129,Lombardia,Accessories,33
+130,Lombardia,Apparel,63
+131,Lombardia,Apps,21
+132,Lombardia,Art Books,76
+133,Lombardia,Calendars,61
+134,Lombardia,Crafts,5
+135,Lombardia,Design,7
+136,Lombardia,Digital Art,5
+137,Lombardia,Documentary,6
+138,Lombardia,Electronic Music,13
+139,Lombardia,Fantasy,27
+140,Lombardia,Fashion,8
+141,Lombardia,Fiction,23
+142,Lombardia,Fine Art,34
+143,Lombardia,Gadgets,69
+144,Lombardia,Graphic Design,16
+145,Lombardia,Hardware,14
+146,Lombardia,Illustration,16
+147,Lombardia,Interactive Design,16
+148,Lombardia,Jazz,17
+149,Lombardia,Live Games,29
+150,Lombardia,Music,7
+151,Lombardia,Nonfiction,57
+152,Lombardia,Painting,5
+153,Lombardia,Pet Fashion,17
+154,Lombardia,Photobooks,21
+155,Lombardia,Playing Cards,202
+156,Lombardia,Pop,14
+157,Lombardia,Product Design,84
+158,Lombardia,Publishing,9
+159,Lombardia,Punk,7
+160,Lombardia,Ready-to-wear,15
+161,Lombardia,Restaurants,21
+162,Lombardia,Rock,19
+163,Lombardia,Sculpture,16
+164,Lombardia,Shorts,7
+165,Lombardia,Sound,16
+166,Lombardia,Tabletop Games,144
+167,Lombardia,Technology,4
+168,Lombardia,Theater,4
+169,Lombardia,Typography,13
+170,Lombardia,Video,31
+171,Lombardia,Video Games,26
+172,Lombardia,Wearables,16
+173,Lombardia,Web,29
+174,Lombardia,World Music,28
+175,Lombardia,Zines,13
+176,Marche,DIY Electronics,13
+177,Marche,Drama,11
+178,Marche,Fashion,1
+179,Marche,Journalism,14
+180,Marche,Music,3
+181,Marche,Product Design,20
+182,Marche,Tabletop Games,5
+183,Marche,Web,1
+184,Marche,Young Adult,2
+185,North Holland,Illustration,17
+186,North Kivu,Documentary,3
+187,Northern Areas,Photobooks,40
+188,NY,Art,1
+189,NY,Documentary,3
+190,NY,Narrative Film,26
+191,NY,Video Games,16
+192,Oslo Fylke,Nature,20
+193,Phnum Penh,Accessories,21
+194,Piemonte,3D Printing,31
+195,Piemonte,Academic,15
+196,Piemonte,Accessories,47
+197,Piemonte,Anthologies,16
+198,Piemonte,Apparel,16
+199,Piemonte,Art,6
+200,Piemonte,Art Books,17
+201,Piemonte,Camera Equipment,49
+202,Piemonte,Children's Books,21
+203,Piemonte,Classical Music,26
+204,Piemonte,Comic Books,89
+205,Piemonte,Dance,15
+206,Piemonte,Design,2
+207,Piemonte,DIY,28
+208,Piemonte,DIY Electronics,33
+209,Piemonte,Documentary,9
+210,Piemonte,Drama,16
+211,Piemonte,Drinks,15
+212,Piemonte,Electronic Music,16
+213,Piemonte,Fiction,15
+214,Piemonte,Food,7
+215,Piemonte,Footwear,29
+216,Piemonte,Gadgets,51
+217,Piemonte,Games,6
+218,Piemonte,Graphic Design,32
+219,Piemonte,Graphic Novels,63
+220,Piemonte,Illustration,62
+221,Piemonte,Jewelry,15
+222,Piemonte,Mixed Media,17
+223,Piemonte,Music Videos,6
+224,Piemonte,Nature,34
+225,Piemonte,Performance Art,11
+226,Piemonte,Periodicals,11
+227,Piemonte,Photobooks,41
+228,Piemonte,Photography,6
+229,Piemonte,Places,24
+230,Piemonte,Playing Cards,123
+231,Piemonte,Product Design,40
+232,Piemonte,Radio & Podcasts,9
+233,Piemonte,Ready-to-wear,14
+234,Piemonte,Rock,13
+235,Piemonte,Shorts,26
+236,Piemonte,Sound,15
+237,Piemonte,Tabletop Games,147
+238,Piemonte,Technology,1
+239,Piemonte,Translations,16
+240,Piemonte,Video Games,88
+241,Piemonte,Wearables,15
+242,Piemonte,Web,35
+243,Piemonte,Webcomics,42
+244,Piemonte,Woodworking,12
+245,Piemonte,Young Adult,11
+246,Prilep Municipality,Festivals,11
+247,Puglia,Experimental,3
+248,Puglia,Food,6
+249,Puglia,Product Design,4
+250,Sardegna,Children's Books,9
+251,Sardegna,Cookbooks,2
+252,Sardegna,Documentary,5
+253,Sardegna,Mixed Media,14
+254,Sardegna,Product Design,10
+255,Sardegna,Restaurants,17
+256,Sardegna,Tabletop Games,12
+257,Sardegna,Workshops,31
+258,Scotland,Comics,1
+259,Scotland,Festivals,2
+260,Sichuan,People,24
+261,Sicilia,DIY Electronics,9
+262,Sicilia,Documentary,8
+263,Sicilia,Food,6
+264,Sicilia,Playing Cards,14
+265,Sicilia,Small Batch,20
+266,Sicilia,Tabletop Games,1
+267,Sicilia,Wearables,18
+268,Stockholm,Illustration,15
+269,Tel Aviv,Academic,15
+270,Tel Aviv,Playing Cards,12
+271,Tokushima Prefecture,Web,32
+272,Tokyo Prefecture,Comedy,7
+273,Toscana,3D Printing,15
+274,Toscana,Accessories,17
+275,Toscana,Classical Music,15
+276,Toscana,Comic Books,27
+277,Toscana,Comics,4
+278,Toscana,Fashion,3
+279,Toscana,Food,7
+280,Toscana,Footwear,34
+281,Toscana,Gadgets,174
+282,Toscana,Games,5
+283,Toscana,Graphic Novels,35
+284,Toscana,Illustration,16
+285,Toscana,Indie Rock,6
+286,Toscana,Music,2
+287,Toscana,Playing Cards,13
+288,Toscana,Product Design,28
+289,Toscana,Sculpture,14
+290,Toscana,Software,19
+291,Toscana,Space Exploration,16
+292,Toscana,Tabletop Games,51
+293,Toscana,Theater,5
+294,Toscana,Video Games,16
+295,Trentino-Alto Adige,Art Books,33
+296,Trentino-Alto Adige,Festivals,18
+297,Trentino-Alto Adige,Hardware,16
+298,Troms Fylke,Nature,21
+299,Umbria,Art Books,10
+300,Umbria,Film & Video,6
+301,Umbria,Product Design,4
+302,Umbria,Publishing,1
+303,Umbria,Shorts,6
+304,Umbria,Tabletop Games,21
+305,Valle d'Aosta,Art,2
+306,Valle d'Aosta,Blues,5
+307,Veneto,3D Printing,29
+308,Veneto,Art,7
+309,Veneto,Calendars,15
+310,Veneto,Camera Equipment,14
+311,Veneto,Documentary,6
+312,Veneto,Fabrication Tools,14
+313,Veneto,Fiction,44
+314,Veneto,Fine Art,24
+315,Veneto,Footwear,24
+316,Veneto,Graphic Novels,18
+317,Veneto,Illustration,3
+318,Veneto,Photobooks,22
+319,Veneto,Plays,22
+320,Veneto,Product Design,20
+321,Veneto,Tabletop Games,54
+322,WA,Textiles,14
+323,`Adan,Web,10
